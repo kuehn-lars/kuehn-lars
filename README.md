@@ -1,34 +1,47 @@
-# Lars Kühn
+<h1 align="left">Lars Kühn</h1>
 
-Business Informatics student at Bayer AG, based in Germany. Currently writing my bachelor thesis.
+<p align="left">
+  <b>Software Engineer</b> @ Bayer AG · Leverkusen, Germany
+</p>
 
-## About
+<p align="left">
+  <sub>Building full-stack applications and the cloud infrastructure they run on.</sub>
+</p>
 
-```javascript
-const user = {
-  role: "Business Informatics Student",
+<h2 align="left">About</h2>
+
+```typescript
+const lars = {
+  role: "Software Engineer",
   company: "Bayer AG",
-  location: "Germany",
-  currently: "Writing my bachelor thesis",
-  code: [Python, JavaScript, Node.js, Terraform, TypeScript],
-  tools: [Docker, Kubernetes, React, Apache Kafka, Next.js],
-}
+  location: "Leverkusen, Germany",
+  focus: [
+    "full-stack development",
+    "data engineering",
+    "cloud infrastructure",
+    "enterprise architecture",
+  ],
+};
 ```
 
-## Stack
+<h2 align="left">Education</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
----
-<p align="center">
-  <a href="https://github.com/kuehn-lars"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/lars-k%C3%BChn-09a72a380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="left">
+  <b>B.Sc. Business Informatics (Data Science)</b>
+  <br>
+  <sub>Integrated degree program @ Bayer · Sep 2023 – Aug 2026</sub>
+</p>
+
+<h2 align="left">Stack</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/>
 </p>
